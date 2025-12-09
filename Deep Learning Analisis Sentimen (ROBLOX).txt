@@ -1,0 +1,27 @@
+Deep Learning Analisis Sentimen (ROBLOX)
+
+Submission Checklists : 
+
+Data merupakan hasil scraping secara mandiri (Terpenuhi)
+Melakukan tahapan ekstraksi fitur dan pelabelan data (Terpenuhi)
+Menggunakan algoritma pelatihan machine learning (Terpenuhi)
+Akurasi testing set yang didapatkan minimal harus mencapai 85% (Terpenuhi)
+
+Overall Review
+
+Kriteria 1: Data hasil scraping secara mandiri. Kamu berhasil mengumpulkan data melalui scraping Play Store. Jumlah data yang dikumpulkan bahkan melampaui batas minimal (lebih dari 10.000 sampel).
+
+Kriteria 2: Ekstraksi fitur dan pelabelan data. Kamu sudah melakukan preprocessing sehingga data lebih bersih dan relevan. Labeling dilakukan ke dalam 3 kelas: positif , negatif dan netral. Selain itu, kamu mengeksplorasi metode ekstraksi fitur TF-IDF dan Tokenizer. Data juga sudah dibagi menjadi training dan testing set dengan proporsi yang sesuai.
+
+Kriteria 3: Penggunaan algoritma machine learning. Kamu tidak hanya melatih satu model, tetapi mencoba hingga 3 skema pemodelan berbeda. Eksperimen mencakup 1 algoritma Machine learning klasik dan 2 algoritma Deep learning. Pendekatan ini menunjukkan pemahaman yang baik serta inisiatif untuk membandingkan berbagai metode.
+
+Kriteria 4: Akurasi minimal 85% pada testing set. Akurasi paling tinggi didapat oleh CNN yang berhasil melampaui batas minimal, dengan akurasi mencapai 97% pada testing set.
+
+telah menerapkan beberapa saran diantaranya :
+
+Menggunakan algoritma deep learning. (Terpenuhi)
+Akurasi pada training set dan testing set di atas 92%. (Terpenuhi)
+Dataset yang digunakan untuk melatih model minimal memiliki tiga kelas. (Terpenuhi)
+Memiliki jumlah data minimal 10.000 sampel data. (Terpenuhi)
+Melakukan 3 percobaan skema pelatihan yang berbeda. (Terpenuhi)
+Melakukan inference atau testing (Terpenuhi)
